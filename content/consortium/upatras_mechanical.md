@@ -2,9 +2,11 @@
 title: 'Department of Mechanical Engineering - University of Patras'
 date: 2018-12-20T13:44:23+10:00
 draft: false
-image: 'images/team/vince-fleming-613817-unsplash.jpg'
+image:
 weight: 5
 ---
+
+![forth_bio](/images/logo/scaled/upatras_mechanical_logo.png)
 
 The Department of Mechanical Engineering and Aeronautics offers a broad-based education for engineering, encompassing professional disciplines associated with current and future needs as well as with developments in both Mechanical and Aeronautical Engineering.
 It was founded in 1967, providing curricula in Mechanical Engineering since 1972, on a five-year course basis and preparing graduates for industry, government, education and research both at home and abroad.
