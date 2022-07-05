@@ -7,7 +7,7 @@ promoted: true
 weight: 2
 ---
 
-![forth_bio](/images/logo/scaled/forth_electronics_logo.png)
+![forth_ele](/images/logo/scaled/forth_electronics_logo.png)
 
 The Institute of Electronic Structure and Laser of the Foundation for Research and Technology-Hellas (IESL-FORTH) was founded in 1983.
 It has since established its international presence in the areas of Laser Science, Micro/nano-electronics, Polymer Science, Materials Science and Astrophysics.

@@ -6,7 +6,7 @@ image:
 weight: 7
 ---
 
-![forth_bio](/images/logo/scaled/medis_logo.png)
+![medis](/images/logo/scaled/medis_logo.png)
 
 MED.I.S. SA (Medical Information Systems) is a pioneering information technology company specialized in the health care sector.
 The company has implemented significant information technology projects in the public and private sectors and has accomplished continuous growth in projects, personnel and income.
