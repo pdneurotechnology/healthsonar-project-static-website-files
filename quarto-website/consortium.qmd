@@ -1,0 +1,81 @@
+---
+title: "Consortium"
+---
+
+## Mission
+
+The HealthSonar device was developed by a versatile and experienced group of experts, both from academia and industry.
+Each one is a leader in their area of expertise and they bring at the table an opportunity of mutual growth in order to develop the HealthSonar system and 
+advance science and technology through cooperation and open practices
+
+## Partners
+
+:::::{.grid}
+
+::: {.g-col-6}
+![](assets/images/consortium/pdn_logo.png)
+:::
+
+::: {.g-col-6}
+![](assets/images/consortium/forth_electronics_logo.png)
+:::
+
+::: {.g-col-6}
+<big><b>PD Neurotechnology Ltd. Medical Solutions</b></big><br>
+PD Neurotechnology Ltd is a medical device company, based in the United Kingdom, developing monitoring systems for movement disorders.
+:::
+
+::: {.g-col-6}
+<big><b>Institute of Electronic Structure and Laser - FORTH</b></big><br>
+The IESL-FORTH has established its international presence in the areas of Laser Science, Micro/nano-electronics, Polymer Science, Materials Science and Astrophysics.
+:::
+
+::: {.g-col-6}
+![](assets/images/consortium/forth_computer_logo.png)
+:::
+
+::: {.g-col-6}
+![](assets/images/consortium/forth_biology_logo.png)
+:::
+
+
+::: {.g-col-6}
+<big><b>Institute of Computer Science - FORTH</b></big><br>
+The ICS performs high quality basic and applied research, to promote education and training, and to contribute to the development of the Information Society, at a regional, national, and European level.
+:::
+
+::: {.g-col-6}
+<big><b>Institute of Molecular Biology and Biotechnology - FORTH</b></big><br>
+IMBB is one of the most prominent life science research institutions in Greece, with an outstanding record of scientific achievements, state of the art infrastructure and a broad range of research, innovation and educational activities.
+:::
+
+::: {.g-col-6}
+![](assets/images/consortium/upatras_mechanical_logo.png)
+:::
+
+::: {.g-col-6}
+![](assets/images/consortium/kapodistrian_university_logo.png)
+:::
+
+
+
+::: {.g-col-6}
+<big><b>Department of Mechanical Engineering - University of Patras</b></big><br>
+The Department of Mechanical Engineering and Aeronautics offers a broad-based education for engineering, encompassing professional disciplines associated with current and future needs as well as with developments in both Mechanical and Aeronautical Engineering.
+:::
+
+
+::: {.g-col-6}
+<big><b>National and Kapodistrian University of Athens</b></big><br>
+The National and Kapodistrian University of Athens, officially founded in April 14th, 1837, is the first University not only of Greece but both the Balkan peninsula and the Eastern Mediterranean region.
+:::
+
+::: {.g-col-6}
+![](assets/images/consortium/medis_logo.png)
+
+
+<big><b>MED.I.S SA - Medical Information Systems</b></big><br>
+MED.I.S. SA (Medical Information Systems) is a pioneering information technology company specialized in the health care sector. The company has implemented significant information technology projects in the public and private sectors and has accomplished continuous growth in projects, personnel and income.
+:::
+
+:::::

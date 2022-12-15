@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  favicon: assets/images/favicon.svg
+  title: "HealthSonar"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - device.qmd
+      - consortium.qmd
+      - publications.qmd
+    pinned: True
+
+
+format:
+  html:
+    theme: default
+    css: styles.css
+    toc: true
+    page-layout: full
+
+
+
