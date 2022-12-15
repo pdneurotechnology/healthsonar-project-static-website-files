@@ -24,19 +24,19 @@ format:
 
 ::: {.g-col-4}
 <center><i class="fa-solid fa-lungs fa-5x" style="color:#3c8fc9"></i></center><br>
-<big><b>Breathing Monitoring</b></big>
+<big><b>Breathing Monitoring</b></big><br>
 Monitor your respiration rate during night and day. Extract valuable information about your breathing patterns. 
 :::
 
 ::: {.g-col-4}
 <center><i class="fa-solid fa-moon fa-5x" style="color:#000000"></i></center><br>
-<big><b>Night-Time Monitoring</b></big>
+<big><b>Night-Time Monitoring</b></big><br>
 Monitor your sleep in order to acquire deep insights. Measure the quality of your sleep, and identify sleep related events.
 :::
 
 ::: {.g-col-4}
 <center><i class="fa-solid fa-heart fa-5x" style="color:#c50f0f"></i></center><br>
-<big><b>Heart Rate Monitoring</b></big>
+<big><b>Heart Rate Monitoring</b></big><br>
 Identify micro-movements of the chest and extract accurate heart rate information without using a wearable solution.
 :::
 
@@ -58,7 +58,7 @@ Identify micro-movements of the chest and extract accurate heart rate informatio
 
 <center>
 <i class="fa-solid fa-satellite-dish fa-3x" style="color:#000000"></i><br><br>
-<big><b>Ultra Wideband Technology (UWB)</b></big>
+<big><b>Ultra Wideband<br>Technology (UWB)</b></big>
 </center>
 
 :::
@@ -67,7 +67,7 @@ Identify micro-movements of the chest and extract accurate heart rate informatio
 
 <center>
 <i class="fa-solid fa-wifi fa-3x" style="color:#000000"></i><br><br>
-<big><b>Wi-Fi Wireless Connectivity</b></big>
+<big><b>Wi-Fi Wireless<br>Connectivity</b></big>
 </center>
 
 :::
@@ -76,7 +76,7 @@ Identify micro-movements of the chest and extract accurate heart rate informatio
 
 <center>
 <i class="fa-brands fa-bluetooth-b fa-3x" style="color:#000000"></i><br><br>
-<big><b>Bluetooth Low<br> Energy (BLE)</b></big>
+<big><b>Bluetooth Low<br>Energy (BLE)</b></big>
 </center>
 
 :::

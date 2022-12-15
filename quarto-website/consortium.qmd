@@ -6,7 +6,7 @@ title: "Consortium"
 
 The HealthSonar device was developed by a versatile and experienced group of experts, both from academia and industry.
 Each one is a leader in their area of expertise and they bring at the table an opportunity of mutual growth in order to develop the HealthSonar system and 
-advance science and technology through cooperation and open practices
+advance science and technology through cooperation and open practices.
 
 ## Partners
 
@@ -41,7 +41,7 @@ The IESL-FORTH has established its international presence in the areas of Laser 
 
 ::: {.g-col-6}
 <big><b>Institute of Computer Science - FORTH</b></big><br>
-The ICS performs high quality basic and applied research, to promote education and training, and to contribute to the development of the Information Society, at a regional, national, and European level.
+ICS performs high quality basic and applied research, to promote education and training, and to contribute to the development of the Information Society, at a regional, national, and European level.
 :::
 
 ::: {.g-col-6}
@@ -57,8 +57,6 @@ IMBB is one of the most prominent life science research institutions in Greece, 
 ![](assets/images/consortium/kapodistrian_university_logo.png)
 :::
 
-
-
 ::: {.g-col-6}
 <big><b>Department of Mechanical Engineering - University of Patras</b></big><br>
 The Department of Mechanical Engineering and Aeronautics offers a broad-based education for engineering, encompassing professional disciplines associated with current and future needs as well as with developments in both Mechanical and Aeronautical Engineering.
@@ -73,9 +71,9 @@ The National and Kapodistrian University of Athens, officially founded in April 
 ::: {.g-col-6}
 ![](assets/images/consortium/medis_logo.png)
 
-
 <big><b>MED.I.S SA - Medical Information Systems</b></big><br>
-MED.I.S. SA (Medical Information Systems) is a pioneering information technology company specialized in the health care sector. The company has implemented significant information technology projects in the public and private sectors and has accomplished continuous growth in projects, personnel and income.
+MED.I.S. SA (Medical Information Systems) is a pioneering information technology company specialized in the health care sector.
+The company has implemented significant information technology projects in the public and private sectors and has accomplished continuous growth in projects, personnel and income.
 :::
 
 :::::
