@@ -1,0 +1,18 @@
+---
+title: Contact
+format:
+    html:
+        header-includes: |
+            <link rel="stylesheet" href="assets/fontawesome-free-6.2.1-web/css/fontawesome.min.css">
+            <script defer src="assets/fontawesome-free-6.2.1-web/js/all.min.js"></script>
+---
+
+Are you interested to learn more about HealthSonar's innovative technology?
+
+<i class="fa-solid fa-envelope fa-lg" style="color:#000000"></i>
+[Contact us](mailto:info@pdneurotechnology.com).
+
+Do you want to connect with us and be up-to-date with new developments?
+
+<i class="fa-brands fa-twitter fa-lg" style="color:#000000"></i>
+[Follow us](www.twitter.com/healthsonar)

@@ -4,20 +4,37 @@ project:
 website:
   favicon: assets/images/favicon.svg
   title: "HealthSonar"
+  twitter-card: true
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - device.qmd
-      - consortium.qmd
-      - publications.qmd
+    - href: index.qmd
+      text: Home
+      icon: house
+    - href: about.qmd
+      text: About
+      icon: info-circle
+    - href: device.qmd
+      text: Device
+      icon: broadcast-pin
+    - href: consortium.qmd
+      text: Consortium
+      icon: people
+    - href: publications.qmd
+      text: Publications
+      icon: book
+    - href: contact.qmd
+      text: Contact
+      icon: envelope
+    right:
+    - icon: twitter
+      href: https://twitter.com/healthsonar
     pinned: True
-
+  margin-header: |
+    ![](/assets/images/espa_logo.jpg)
 
 format:
   html:
-    theme: simplex
+    theme: cosmo
     css: styles.css
     toc: true
     page-layout: full

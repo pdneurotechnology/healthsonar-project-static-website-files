@@ -20,10 +20,11 @@ format:
 <br>
 <br>
 
+
 :::::{.grid}
 
 ::: {.g-col-4}
-<center><i class="fa-solid fa-lungs fa-5x" style="color:#3c8fc9"></i></center><br>
+<center><i class="fa-solid fa-lungs fa-5x" style="color:#2780e3"></i></center><br>
 <big><b>Breathing Monitoring</b></big><br>
 Monitor your respiration rate during night and day. Extract valuable information about your breathing patterns. 
 :::

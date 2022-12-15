@@ -5,6 +5,8 @@ nocite: |
   @ntanis2022evaluating
 ---
 
+![](assets/images/tug_paper_title.png)
+
 
 ::: {#refs}
 :::
