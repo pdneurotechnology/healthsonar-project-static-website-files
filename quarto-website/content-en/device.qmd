@@ -1,0 +1,15 @@
+---
+title: "Device"
+lang: en
+---
+
+![](/assets/images/exhibited_device.jpg)
+
+The HealthSonar is an innovative monitoring device accompanied by a cloud and a mobile application.
+The heart of the device is an ultra-wideband radar sensor which senses its environment and identifies micro and macro motions.
+The processing unit incorporated in the device, is used for handling the data, processing and uploading them to the cloud.
+
+The device is able to monitor both low and high amplitude motion.
+The former is related to thorax and abdomen oscillations for the extraction of heart and respiration rate, while the latter is related to walking, and generally to body motion.
+HealthSonar is an IoT device, transmitting data directly to the cloud application where personalized Machine Learning methods are used to analyze them.
+It can also be connected to the HealthSonar mobile app to transmit data in real time and provide health-related measures to the users.

@@ -1,0 +1,23 @@
+---
+title: "About"
+lang: en
+about:
+  template: trestles
+  image: assets/images/icon_logo.png
+  image-shape: round
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/healthsonar
+    - icon: envelope
+      text: Contact
+      href: "mailto:info@pdneurotechnology.com"
+---
+
+Several groups of people face problems in their daily life related to their sleep or movement, resulting in reduced quality of life.
+Some of those groups consist of, elders, patients with sleep disorders, patients with Parkinson disease, multiple sclerosis or other neurological and movement disorders.
+
+The HealthSonar project is aiming to develop a system based on ultra-low energy, ultra-wideband (UWB) radio technology, to monitor sleep, gait and indoor activity, including falls.
+
+The device is meant to be used to monitor a person during sleep, in order to identify sleep-related events and assess sleep quality.
+Moreover, during daytime, it can be used to extract gait parameters and identify falls.

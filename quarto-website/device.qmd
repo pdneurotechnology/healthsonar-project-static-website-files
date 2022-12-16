@@ -1,17 +1,15 @@
 ---
-title: "Device"
+title: "Συσκευή"
 ---
 
 ![](/assets/images/exhibited_device.jpg)
 
-The HealthSonar is an innovative monitoring device accompanied by a cloud and a mobile application.
-The heart of the device is an ultra-wideband radar sensor which senses its environment and identifies micro and macro motions.
-The processing unit incorporated in the device, is used for handling the data, processing and uploading them to the cloud.
+Το HealthSonar αποτελεί μία καινοτόμα συσκευή παρακολούθησης, που συνοδεύεται από cloud και mobile εφαρμογή.
+Στην καρδιά της συσκευής βρίσκεται ένας αισθητήρας radar που χρησιμοποιεί ultra-wideband τεχνολογία και ελέγχει το περιβάλλον αναγνωρίζοντας μικροσκοπικές και μακροσκοπικές κινήσεις.
+Ο ενσωματωμένος επεξεργαστής της συσκευής χρησιμοποιείται για επεξεργασία δεδομένων καθώς και για τη μεταφορά τους στο cloud.
 
-
-The device is able to monitor both low and high amplitude motion. The former is related to thorax and abdomen oscillations for the extraction of heart and respiration rate, while the latter is related to walking, and generally to body motion.
-HealthSonar is an IoT device, transmitting data directly to the cloud application where personalized machine learning methods are used to analyze them, although it can also be connected to the HealthSonar mobile app to transmit data in real time and provide health-related measures to the users.
-
-The basic principle of operation of the HealthSonar device lies in very low-power radio waves that detect, both the body movement and the subtle oscillations caused by the lungs and the heart.
-An intelligent unit analyzes the captured data and extracts health-related parameters, while also detecting falls.
-A mobile app pairs with the HealthSonar device, configures and manages the system, while presenting information to the users.
+Η συσκευή είναι ικανή να παρακολουθήσει κινήσεις τόσο χαμηλού όσο και υψηλού εύρους.
+Κινήσεις χαμηλού εύρους συνδέονται με ταλαντώσεις του θώρακα και της κοιλιακής χώρας, από τις οποίες μπορεί να εξαχθεί ο αναπνευστικός και καρδιακός ρυθμός.
+Αντίθετα, κινήσεις υψηλού εύρους σχετίζονται με περπάτημα και γενικά κινήσεις σώματος.
+Το HealthSonar είναι μία IoT συσκεύη που μεταδίδει δεδομένα απευθείας σε μία cloud εφαρμογή, όπου προσωποποιημένες μέθοδοι Μηχανικής Μάθησης χρησιμοποιούνται για την ανάλυση τους.
+Επίσης, η συσκευή μπορεί να συνδεθεί σε mobile εφαρμογή ώστε να μεταφέρει δεδομένα σε πραγματικό χρόνο προσφέροντας ιατρικές πληροφορίες στους χρήστες.

@@ -1,14 +1,13 @@
 ---
-title: "Consortium"
+title: "Κοινοπραξία"
 ---
 
-## Mission
+## Αποστολή
 
-The HealthSonar device was developed by a versatile and experienced group of experts, both from academia and industry.
-Each one is a leader in their area of expertise and they bring at the table an opportunity of mutual growth in order to develop the HealthSonar system and 
-advance science and technology through cooperation and open practices.
+Η συσκευή HealthSonar αναπτύχθηκε από μία έμπειρη ομάδα ειδικών, οι οποίοι προέρχονται τόσο από την ακαδημαϊκή κοινότητα όσο και από την βιομηχανία.
+Κάθε ένας είναι καταξιωμένος στον τομέα του και όλοι ως σύνολο προσφέρουν την πολυετή εμπειρία του στην ανάπτυξη του HealthSonar και στην προώθηση της επιστήμης και της τεχνολογίας μέσω συνεργασίας και διάχυσης των αποτελεσμάτων.
 
-## Partners
+## Συνεργάτες
 
 :::::{.grid}
 
@@ -22,12 +21,12 @@ advance science and technology through cooperation and open practices.
 
 ::: {.g-col-6}
 <big><b>PD Neurotechnology Ltd. Medical Solutions</b></big><br>
-PD Neurotechnology Ltd is a medical device company, based in the United Kingdom, developing monitoring systems for movement disorders.
+Η PD Neurotechnology Ltd. είναι μία εταιρεία ανάπτυξης ιατρικών συσκευών με έδρα στο Ηνωμένο Βασίλειο, η οποία αναπτύσσει συσκευές παρακολούθησης κινητικών διαταραχών.
 :::
 
 ::: {.g-col-6}
-<big><b>Institute of Electronic Structure and Laser - FORTH</b></big><br>
-The IESL-FORTH has established its international presence in the areas of Laser Science, Micro/nano-electronics, Polymer Science, Materials Science and Astrophysics.
+<big><b>Ινστιτούτο Ηλεκτρονικής Δομής και Λέϊζερ - ITE</b></big><br>
+Το Ινστιτούτο Ηλεκτρονικής Δομής και Λέϊζερ έχει εδραιωθεί στις περιοχές της Φυσικής Λέιζερ, της Μικρο/Νανοηλεκτρονικής, της Επιστήμης Πολυμερών, της Επιστήμης Υλικών και της Αστροφυσικής.
 :::
 
 ::: {.g-col-6}
@@ -38,15 +37,14 @@ The IESL-FORTH has established its international presence in the areas of Laser 
 ![](assets/images/consortium/forth_biology_logo.png)
 :::
 
-
 ::: {.g-col-6}
-<big><b>Institute of Computer Science - FORTH</b></big><br>
-ICS performs high quality basic and applied research, to promote education and training, and to contribute to the development of the Information Society, at a regional, national, and European level.
+<big><b>Ινστιτούτο Πληροφορικής - ΙΤΕ</b></big><br>
+Το Ινστιτούτο Πληροφορικής παράγει υψηλής ποιότητας βασική και εφαρμοσμένη έρευνα, με στόχο την προώθηση της εκπαίδευσηςω και της συνεισφοράς στην ανάπτυξη της κοινότητας της Τεχνολογίας της Πληροφορίας σε τοπικό, εθνικό και Ευρωπαϊκό επίπεδο.
 :::
 
 ::: {.g-col-6}
-<big><b>Institute of Molecular Biology and Biotechnology - FORTH</b></big><br>
-IMBB is one of the most prominent life science research institutions in Greece, with an outstanding record of scientific achievements, state of the art infrastructure and a broad range of research, innovation and educational activities.
+<big><b>Ινστιτούτο Μοριακής Βιολογίας και Βιοτεχνολογίας - ΙΤΕ</b></big><br>
+Το Ινστιτούτο Μοριακής Βιολογίας και Βιοτεχνολογίας είναι από τα πιο καταψιωμένα ερευνητικά ιδρύματα επιστημών υγείας στην Ελλάδα, έχοντας εξαιρετική συνεισφορά στην επιστήμη, υπερσύγχρονο εξοπλισμό ενώ δραστηριοποιείται σε ένα ευρύ φάσμα ερευνητικών, καινοτόμων και εκπαιδευτικών δραστηριοτήτων.
 :::
 
 ::: {.g-col-6}
@@ -58,21 +56,21 @@ IMBB is one of the most prominent life science research institutions in Greece, 
 :::
 
 ::: {.g-col-6}
-<big><b>Department of Mechanical Engineering - University of Patras</b></big><br>
-The Department of Mechanical Engineering and Aeronautics offers a broad-based education for engineering, encompassing professional disciplines associated with current and future needs as well as with developments in both Mechanical and Aeronautical Engineering.
+<big><b>Τμήμα Μηχανολόγων Μηχανικών - Πανεπιστήμιο Πατρων</b></big><br>
+Το Τμήμα Μηχανολόγων Μηχανικών και Αεροναυπηγικής προσφέρει πολυσχιδή εκπαίδευση στη μηχανική, συμπεριλαμβάνοντας τομείς στενά συνδεδεμένους με τις τρέχουσες και μελλοντικές εξελίξεις τόσο στη Μηχανολογία όσο και στην Αεροναυπηγική.
 :::
 
 ::: {.g-col-6}
-<big><b>National and Kapodistrian University of Athens</b></big><br>
-The National and Kapodistrian University of Athens, officially founded in April 14th, 1837, is the first University not only of Greece but both the Balkan peninsula and the Eastern Mediterranean region.
+<big><b>Εθνικό και καποδιστριακό Πανεπιστήμιο Αθηνών</b></big><br>
+Το ΕΚΠΑ ιδρύθηκε επίσημα στις 14 Απριλίου του 1837 και άρα αποτελεί, όχι μόνο το πρώτο πανεπιστήμιο στην Ελλάδα, αλλά επίσης το πρώτο στη Βαλκανική χερσόνησο και στην περιοχή της Ανατολική Μεσογείου γενικότερα.
 :::
 
 ::: {.g-col-6}
 ![](assets/images/consortium/medis_logo.png)
 
 <big><b>MED.I.S SA - Medical Information Systems</b></big><br>
-MED.I.S. SA (Medical Information Systems) is a pioneering information technology company specialized in the health care sector.
-The company has implemented significant information technology projects in the public and private sectors and has accomplished continuous growth in projects, personnel and income.
+Η εταιρεία MED.I.S είναι πρωτοπόρος στην Τεχνολογίας της Πληροφορίας, ειδικευόμενη στον τομέα της Υγείας.
+Η εταιρεία έχει ολοκληρώσει σημαντικά έργα, τόσο για τον δημοσίο όσο και για τον ιδιωτικό τομέα, έχοντας επιτύχει διαρκή εξέλιξη σε έργα, προσωπικό και εισόδημα.
 :::
 
 :::::

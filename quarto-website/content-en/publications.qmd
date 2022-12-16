@@ -1,11 +1,13 @@
 ---
-title: "Δημοσιεύσεις"
+title: "Publications"
+lang: en
 bibliography: bibliography.bib
 nocite: |
   @ntanis2022evaluating
 ---
 
 ![](assets/images/tug_paper_title.png)
+
 
 ::: {#refs}
 :::

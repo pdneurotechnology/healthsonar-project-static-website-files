@@ -16,5 +16,59 @@
   },
   "contact.qmd": {
     "contact.html": "8904d395"
+  },
+  "consortium_gr.qmd": {
+    "consortium_gr.html": "a0b5a751"
+  },
+  "consortium_en.qmd": {
+    "consortium_en.html": "ef857ba7"
+  },
+  "contact_en.qmd": {
+    "contact_en.html": "5201fa45"
+  },
+  "contact_gr.qmd": {
+    "contact_gr.html": "21d21981"
+  },
+  "device_gr.qmd": {
+    "device_gr.html": "0dbd60a3"
+  },
+  "device_en.qmd": {
+    "device_en.html": "613fcf24"
+  },
+  "index_gr.qmd": {
+    "index_gr.html": "ff03a11e"
+  },
+  "publications_gr.qmd": {
+    "publications_gr.html": "082fb545"
+  },
+  "index_en.qmd": {
+    "index_en.html": "354672f6"
+  },
+  "publications_en.qmd": {
+    "publications_en.html": "9423d715"
+  },
+  "about_gr.qmd": {
+    "about_gr.html": "f65f596e"
+  },
+  "about_en.qmd": {
+    "about_en.html": "23c5d9d5"
+  },
+  "cccccc.qmd": {
+    "cccccc.html": "feb5bc58"
+  },
+  "assets/content-en/about.qmd": {
+    "about.html": "aa4e7478"
+  },
+  "assets/content-en/device.qmd": {
+    "device.html": "df152865"
+  },
+  "assets/content-en/consortium.qmd": {
+    "consortium.html": "323ad31c"
+  },
+  "assets/content-en/index.qmd": {
+    "index.html": "b115d5b6"
+  },
+  "assets/content-en/publications.qmd": {
+    "publications.html": "4d9d7101"
   }
 }

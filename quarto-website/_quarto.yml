@@ -1,29 +1,36 @@
 project:
   type: website
+  render:
+    - ./index.qmd
+    - ./about.qmd
+    - ./device.qmd
+    - ./consortium.qmd
+    - ./publications.qmd
+    - ./contact.qmd
+    - "!content-en/"
 
 website:
   favicon: assets/images/favicon.svg
   title: "HealthSonar"
-  twitter-card: true
   navbar:
     left:
     - href: index.qmd
-      text: Home
+      text: Κεντρική
       icon: house
     - href: about.qmd
-      text: About
+      text: Σχετικά
       icon: info-circle
     - href: device.qmd
-      text: Device
+      text: Συσκευή
       icon: broadcast-pin
     - href: consortium.qmd
-      text: Consortium
+      text: Κοινοπραξία
       icon: people
     - href: publications.qmd
-      text: Publications
+      text: Δημοσιεύσεις
       icon: book
     - href: contact.qmd
-      text: Contact
+      text: Επικοινωνία
       icon: envelope
     right:
     - icon: twitter

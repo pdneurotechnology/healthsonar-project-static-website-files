@@ -1,8 +1,8 @@
 ---
-title: "About"
+title: "Σχετικά"
 about:
   template: trestles
-  image: assets/images/icon_logo.png
+  image: /assets/images/icon_logo.png
   image-shape: round
   links:
     - icon: twitter
@@ -13,10 +13,10 @@ about:
       href: "mailto:info@pdneurotechnology.com"
 ---
 
-Several groups of people face problems in their daily life related to their sleep or movement, resulting in reduced quality of life.
-Some of those groups consist of, elders, patients with sleep disorders, patients with Parkinson disease, multiple sclerosis or other neurological and movement disorders.
+Αρκετές ομάδες ατόμων αντιμετωπίζουν προβλήματα στην καθημερινότητα τους σχετιζόμενα με τον ύπνο ή την κίνηση τους, τα οποία επηρεάζουν την ποιότητα ζωής.
+Κάποιες από αυτές τις ομάδες αποτελούνται από ηλικιωμένους, ασθενείς με διαταραχές ύπνου, ασθενείς με Parkinson's, πολλαπλή σκλήρυνση ή άλλες νευρολογικές και κινητικές διαταραχές.
+Σε όλες αυτές τις περιπτώσεις είναι αναγκαία η διαρκής παρακολούθηση των ατόμων ώστε να μπορέσουν να εξαχθούν πληροφορίες σχετικά με την υγεία και την γενική κατάσταση τους.
 
-The HealthSonar project is aiming to develop a system based on ultra-low energy, ultra-wideband (UWB) radio technology, to monitor sleep, gait and indoor activity, including falls.
-
-The device is meant to be used to monitor a person during sleep, in order to identify sleep-related events and assess sleep quality.
-Moreover, during daytime, it can be used to extract gait parameters and identify falls.
+Το έργο HealthSonar, στοχεύει στην ανάπτυξη ενός συστήματος βασισμένο σε ραδιοκύματα εξαιρετικά χαμηλής ισχύος (ultra-wideband, UWB).
+Το σύστημα προορίζεται να παρακολουθεί άτομα κατά τη διάρκεια του ύπνου τους, με στόχο την αναγνώριση γεγονότων που σχετίζονται με αυτόν και να αξιολογεί την ποιότητα του.
+Επίσης, κατά τη διάρκεια της ημέρας, μπορεί να χρησιμοποιηθεί για να εξάγει παραμέτρους βάδισης και να αναγνωρίσει πτώσεις.

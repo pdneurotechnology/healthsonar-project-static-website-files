@@ -4,14 +4,14 @@ website:
 format:
     html:
         header-includes: |
-            <link rel="stylesheet" href="assets/fontawesome-free-6.2.1-web/css/fontawesome.min.css">
-            <script defer src="assets/fontawesome-free-6.2.1-web/js/all.min.js"></script>
+            <link rel="stylesheet" href="assets/fontawesome/css/fontawesome.min.css">
+            <script defer src="assets/fontawesome/js/all.min.js"></script>
 ---
 
 ![](/assets/images/logo.svg)
 
 <body>
-<h1><i>An innovative health monitoring solution</i></h1>
+<h1><i>Ένα καινοτόμο σύστημα παρακολούθησης της υγείας</i></h1>
 </body>
 
 <br>
@@ -25,20 +25,22 @@ format:
 
 ::: {.g-col-4}
 <center><i class="fa-solid fa-lungs fa-5x" style="color:#2780e3"></i></center><br>
-<big><b>Breathing Monitoring</b></big><br>
-Monitor your respiration rate during night and day. Extract valuable information about your breathing patterns. 
+<big><b>Παρακολούθηση Αναπνοής</b></big><br>
+Παρακολουθήστε το ρυθμό της αναπνοής σας κατά τη διάρκεια της ημέρας και της νύχτας.
+Αναγνωρίστε μοτίβα στην αναπνοή σας.
 :::
 
 ::: {.g-col-4}
 <center><i class="fa-solid fa-moon fa-5x" style="color:#000000"></i></center><br>
-<big><b>Night-Time Monitoring</b></big><br>
-Monitor your sleep in order to acquire deep insights. Measure the quality of your sleep, and identify sleep related events.
+<big><b>Παρακολούθηση Ύπνου</b></big><br>
+Παρακολουθήστε σε βάθος τον ύπνο σας.
+Μετρήστε την ποιότητα του και εντοπίστε γενονότα που συμβαίνουν κατά τη διάρκεια του.
 :::
 
 ::: {.g-col-4}
 <center><i class="fa-solid fa-heart fa-5x" style="color:#c50f0f"></i></center><br>
-<big><b>Heart Rate Monitoring</b></big><br>
-Identify micro-movements of the chest and extract accurate heart rate information without using a wearable solution.
+<big><b>Καρδιακός Ρυθμός</b></big><br>
+Εντοπίστε μικροσκοπικές κινήσεις του στήθους και εξάγετε με ακρίβεια τον καρδιακό ρυθμό, χωρίς χρήση φορετής συσκευής.
 :::
 
 :::::
@@ -47,7 +49,7 @@ Identify micro-movements of the chest and extract accurate heart rate informatio
 <br>
 
 <body>
-<h2><i>Core technologies built into HealthSonar</i></h2>
+<h2><i>Βασικές τεχνολογίες στην καρδιά του HealthSonar</i></h2>
 </body>
 
 <br>
