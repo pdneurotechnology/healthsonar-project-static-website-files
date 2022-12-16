@@ -10,7 +10,7 @@ project:
     - "!content-en/"
 
 website:
-  favicon: assets/images/favicon.svg
+  favicon: /assets/images/favicon.png
   title: "HealthSonar"
   navbar:
     left:

@@ -20,7 +20,6 @@ format:
 <br>
 <br>
 
-
 :::::{.grid}
 
 ::: {.g-col-4}
