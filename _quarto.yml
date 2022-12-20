@@ -38,6 +38,9 @@ website:
     pinned: True
   margin-header: |
     ![](/assets/images/espa_logo.jpg)
+  page-footer: 
+    left: HealthSonar
+    center: "[Contact](mailto:info@pdneurotechnology.com) | [Twitter](https://www.twitter.com/healthsonar)" 
 
 format:
   html:
