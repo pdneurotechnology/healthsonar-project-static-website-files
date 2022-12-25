@@ -16,7 +16,7 @@ website:
     left:
     - href: index.qmd
       text: Κεντρική
-      icon: house
+      icon: house-door
     - href: about.qmd
       text: Σχετικά
       icon: info-circle
