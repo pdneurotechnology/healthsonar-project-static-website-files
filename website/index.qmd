@@ -1,6 +1,6 @@
 ---
-website:
-    page-navigation: true
+title-block-banner: true
+title: "HealthSonar"
 format:
     html:
         header-includes: |
@@ -8,7 +8,7 @@ format:
             <script defer src="assets/fontawesome/js/all.min.js"></script>
 ---
 
-![](/assets/images/logo.svg)
+![](/assets/images/logo.svg){width=700}
 
 <body>
 <h1><i>Ένα καινοτόμο σύστημα παρακολούθησης της υγείας</i></h1>
@@ -20,7 +20,7 @@ format:
 <br>
 <br>
 
-:::::{.grid}
+::: {.grid}
 
 ::: {.g-col-4}
 <center><i class="fa-solid fa-lungs fa-5x" style="color:#2780e3"></i></center><br>
@@ -32,14 +32,14 @@ format:
 ::: {.g-col-4}
 <center><i class="fa-solid fa-moon fa-5x" style="color:#000000"></i></center><br>
 <big><b>Παρακολούθηση Ύπνου</b></big><br>
-Παρακολουθήστε σε βάθος τον ύπνο σας.
-Μετρήστε την ποιότητα του και εντοπίστε γενονότα που συμβαίνουν κατά τη διάρκεια του.
+Παρακολουθήστε σε βάθος τον βραδικό ύπνο.
+Ποσοτικοποιήστε τον και εντοπίστε γενονότα που συμβαίνουν κατά τη διάρκεια του.
 :::
 
 ::: {.g-col-4}
 <center><i class="fa-solid fa-heart fa-5x" style="color:#c50f0f"></i></center><br>
 <big><b>Καρδιακός Ρυθμός</b></big><br>
-Εντοπίστε μικροσκοπικές κινήσεις του στήθους και εξάγετε με ακρίβεια τον καρδιακό ρυθμό, χωρίς χρήση φορετής συσκευής.
+Εντοπίστε μικροσκοπικές κινήσεις του στήθους και εξάγετε με ακρίβεια τον καρδιακό ρυθμό, χωρίς χρήση επιπλέον φορετής συσκευής.
 :::
 
 :::::
@@ -84,3 +84,11 @@ format:
 :::
 
 :::::
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![](assets/images/espa_logo.jpg){width=300 fig-align="right"}

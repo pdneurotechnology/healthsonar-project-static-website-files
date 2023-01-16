@@ -14,9 +14,6 @@ website:
   title: "HealthSonar"
   navbar:
     left:
-    - href: index.qmd
-      text: Κεντρική
-      icon: house
     - href: about.qmd
       text: Σχετικά
       icon: info-circle
@@ -36,8 +33,8 @@ website:
     - icon: twitter
       href: https://twitter.com/healthsonar
     pinned: True
-  margin-header: |
-    ![](/assets/images/espa_logo.jpg)
+#   margin-header: |
+#     ![](/assets/images/espa_logo.jpg)
   page-footer: 
     left: HealthSonar
     center: "[Contact](mailto:info@pdneurotechnology.com) | [Twitter](https://www.twitter.com/healthsonar)" 
