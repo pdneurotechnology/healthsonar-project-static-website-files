@@ -37,4 +37,11 @@ website:
 #     ![](/assets/images/espa_logo.jpg)
   page-footer: 
     left: HealthSonar
-    center: "[Contact](mailto:info@pdneurotechnology.com) | [Twitter](https://www.twitter.com/healthsonar)" 
+    center: "[Contact](mailto:info@pdneurotechnology.com) | [Twitter](https://www.twitter.com/healthsonar)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
