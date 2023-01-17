@@ -1,5 +1,6 @@
 ---
 title: Επικοινωνία
+title-block-banner: true
 format:
     html:
         header-includes: |

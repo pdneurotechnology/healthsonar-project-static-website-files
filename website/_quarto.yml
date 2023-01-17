@@ -11,6 +11,7 @@ project:
 
 website:
   favicon: /assets/images/favicon.png
+  search: false
   title: "HealthSonar"
   navbar:
     left:
@@ -31,14 +32,16 @@ website:
       icon: envelope
     right:
     - icon: twitter
+      text: Ακολουθήστε μας!
       href: https://twitter.com/healthsonar
     pinned: True
-#   margin-header: |
-#     ![](/assets/images/espa_logo.jpg)
   page-footer: 
-    left: HealthSonar
-    center: "[Contact](mailto:info@pdneurotechnology.com)
-            | [Twitter](https://www.twitter.com/healthsonar)"
+    right: "![](/assets/images/espa_logo.jpg){width=300 fig-alt=ESPA}"
+    # center:
+    #     - icon: envelope
+    #       href: mailto:info@pdneurotechnology.com
+    #     - icon: twitter
+    #       href: https://twitter.com
 
 format:
   html:

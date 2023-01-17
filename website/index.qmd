@@ -1,6 +1,7 @@
 ---
 title-block-banner: true
 title: "HealthSonar"
+subtitle: "Ένα καινοτόμο σύστημα παρακολούθησης της υγείας"
 format:
     html:
         header-includes: |
@@ -8,41 +9,60 @@ format:
             <script defer src="assets/fontawesome/js/all.min.js"></script>
 ---
 
-![](/assets/images/logo.svg){width=700}
+![](/assets/images/logo.svg){width=700 fig-align="center" fig-alt="HealthSonar logo."}
 
-<body>
+<!-- <body>
 <h1><i><b>Ένα καινοτόμο σύστημα παρακολούθησης της υγείας</b></i></h1>
-</body>
+</body> -->
 
 <br>
 <br>
 <br>
-<br>
-<br>
 
-::: {.grid}
+:::: {.grid}
 
-::: {.g-col-4}
-<center><i class="fa-solid fa-lungs fa-5x" style="color:#2780e3"></i></center><br>
-<big><b>Παρακολούθηση Αναπνοής</b></big><br>
+::: {.g-col-12 .g-col-md-4}
+<div class="card mb-2">
+<div class="card-body">
+<center><i class="fa-solid fa-lungs fa-3x" style="color:#2780e3"></i></center><br>
+<h5 class="card-title"><big><b>Παρακολούθηση Αναπνοής</b></big></h5>
+<p class="card-text">
 Παρακολουθήστε το ρυθμό της αναπνοής σας κατά τη διάρκεια της ημέρας και της νύχτας.
-Αναγνωρίστε μοτίβα στην αναπνοή σας.
+Ανακαλύψτε διάφορα μοτίβα στην αναπνοή σας.
+</p>
+<!-- <a href="posts.html" class="btn btn-info stretched-link">Start reading</a> -->
+</div>
+</div>
 :::
 
-::: {.g-col-4}
-<center><i class="fa-solid fa-moon fa-5x" style="color:#000000"></i></center><br>
-<big><b>Παρακολούθηση Ύπνου</b></big><br>
+::: {.g-col-12 .g-col-md-4}
+<div class="card mb-2">
+<div class="card-body">
+<center><i class="fa-solid fa-moon fa-3x" style="color:#000000"></i></center><br>
+<h5 class="card-title"><big><b>Παρακολούθηση Ύπνου</b></big></h5>
+<p class="card-text">
 Παρακολουθήστε σε βάθος τον βραδικό ύπνο.
-Ποσοτικοποιήστε τον και εντοπίστε γενονότα που συμβαίνουν κατά τη διάρκεια του.
+Ποσοτικοποιήστε τον και εντοπίστε διάφορα γενονότα που συμβαίνουν κατά τη διάρκεια του.
+</p>
+<!-- <a href="posts.html" class="btn btn-info stretched-link">Start reading</a> -->
+</div>
+</div>
 :::
 
-::: {.g-col-4}
-<center><i class="fa-solid fa-heart fa-5x" style="color:#c50f0f"></i></center><br>
-<big><b>Καρδιακός Ρυθμός</b></big><br>
-Εντοπίστε μικροσκοπικές κινήσεις του στήθους και εξάγετε με ακρίβεια τον καρδιακό ρυθμό, χωρίς χρήση επιπλέον φορετής συσκευής.
+::: {.g-col-12 .g-col-md-4}
+<div class="card mb-2">
+<div class="card-body">
+<center><i class="fa-solid fa-heart fa-3x" style="color:#c50f0f"></i></center><br>
+<h5 class="card-title"><big><b>Παρακολούθηση Αναπνοής</b></big></h5>
+<p class="card-text">
+Εντοπίστε μικροσκοπικές κινήσεις του στήθους και υπολογίστε με ακρίβεια τον καρδιακό ρυθμό, χωρίς χρήση επιπλέον φορετής συσκευής.
+</p>
+<!-- <a href="posts.html" class="btn btn-info stretched-link">Start reading</a> -->
+</div>
+</div>
 :::
 
-:::::
+::::
 
 <br>
 <br>
@@ -56,31 +76,32 @@ format:
 
 :::::{.grid}
 
-::: {.g-col-4}
-
+::: {.g-col-12 .g-col-md-4}
+<div class="card-body">
 <center>
 <i class="fa-solid fa-satellite-dish fa-3x" style="color:#000000"></i><br><br>
 <big><b>Ultra Wideband<br>Technology (UWB)</b></big>
 </center>
-
+</div>
 :::
 
-::: {.g-col-4}
 
+::: {.g-col-12 .g-col-md-4}
+<div class="card-body">
 <center>
 <i class="fa-solid fa-wifi fa-3x" style="color:#000000"></i><br><br>
 <big><b>Wi-Fi Wireless<br>Connectivity</b></big>
 </center>
-
+</div>
 :::
 
-::: {.g-col-4}
-
+::: {.g-col-12 .g-col-md-4}
+<div class="card-body">
 <center>
 <i class="fa-brands fa-bluetooth-b fa-3x" style="color:#000000"></i><br><br>
 <big><b>Bluetooth Low<br>Energy (BLE)</b></big>
 </center>
-
+</div>
 :::
 
 :::::
@@ -90,5 +111,3 @@ format:
 <br>
 <br>
 <br>
-
-![](assets/images/espa_logo.jpg){width=300 fig-align="right"}

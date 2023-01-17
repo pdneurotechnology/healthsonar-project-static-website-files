@@ -1,6 +1,8 @@
 ---
 title: "Δημοσιεύσεις"
+title-block-banner: true
 bibliography: bibliography.bib
+csl: assets/transactions-on-algorithms.csl
 nocite: |
   @ntanis2022evaluating
 ---

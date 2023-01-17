@@ -1,5 +1,6 @@
 ---
 title: "Κοινοπραξία"
+title-block-banner: true
 ---
 
 ## Αποστολή
@@ -12,11 +13,11 @@ title: "Κοινοπραξία"
 :::::{.grid}
 
 ::: {.g-col-6}
-![](assets/images/consortium/pdn_logo.png)
+![](assets/images/consortium/pdn_logo.png){fig-alt="PDN"}
 :::
 
 ::: {.g-col-6}
-![](assets/images/consortium/forth_electronics_logo.png)
+![](assets/images/consortium/forth_electronics_logo.png){fig-alt="FORTH Electronics"}
 :::
 
 ::: {.g-col-6}
@@ -30,11 +31,11 @@ title: "Κοινοπραξία"
 :::
 
 ::: {.g-col-6}
-![](assets/images/consortium/forth_computer_logo.png)
+![](assets/images/consortium/forth_computer_logo.png){fig-alt="FORTH Computer"}
 :::
 
 ::: {.g-col-6}
-![](assets/images/consortium/forth_biology_logo.png)
+![](assets/images/consortium/forth_biology_logo.png){fig-alt="FORTH Biology"}
 :::
 
 ::: {.g-col-6}
@@ -48,11 +49,11 @@ title: "Κοινοπραξία"
 :::
 
 ::: {.g-col-6}
-![](assets/images/consortium/upatras_mechanical_logo.png)
+![](assets/images/consortium/upatras_mechanical_logo.png){fig-alt="UPATRAS MEAD"}
 :::
 
 ::: {.g-col-6}
-![](assets/images/consortium/kapodistrian_university_logo.png)
+![](assets/images/consortium/kapodistrian_university_logo.png){fig-alt="Kapodistrian"}
 :::
 
 ::: {.g-col-6}
@@ -66,7 +67,7 @@ title: "Κοινοπραξία"
 :::
 
 ::: {.g-col-6}
-![](assets/images/consortium/medis_logo.png)
+![](assets/images/consortium/medis_logo.png){fig-alt="Medis"}
 
 <big><b>MED.I.S SA - Medical Information Systems</b></big><br>
 Η εταιρεία MED.I.S είναι πρωτοπόρος στην Τεχνολογίας της Πληροφορίας, ειδικευόμενη στον τομέα της Υγείας.
