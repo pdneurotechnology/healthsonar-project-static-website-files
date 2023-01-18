@@ -9,7 +9,7 @@ about:
       text: Contact
       href: "mailto:info@pdneurotechnology.com"
     - icon: twitter
-      text: twitter
+      text: Twitter
       href: https://twitter.com/healthsonar
 ---
 
