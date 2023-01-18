@@ -9,6 +9,7 @@ format:
             <script defer src="assets/fontawesome/js/all.min.js"></script>
 ---
 
+
 ![](/assets/images/banner.png){width=900 fig-align="center" fig-alt="HealthSonar logo."}
 
 <!-- <body>
@@ -30,7 +31,7 @@ format:
 Παρακολουθήστε το ρυθμό της αναπνοής σας κατά τη διάρκεια της ημέρας και της νύχτας.
 Ανακαλύψτε διάφορα μοτίβα στην αναπνοή σας.
 </p>
-<!-- <a href="posts.html" class="btn btn-info stretched-link">Start reading</a> -->
+<a href="posts.html" class="btn btn-primary stretched-link">Διαβάστε περισσότερα</a>
 </div>
 </div>
 :::
@@ -44,7 +45,7 @@ format:
 Παρακολουθήστε σε βάθος τον βραδινό ύπνο.
 Ποσοτικοποιήστε τον και εντοπίστε διάφορα γεγονότα που συμβαίνουν κατά τη διάρκεια του.
 </p>
-<!-- <a href="posts.html" class="btn btn-info stretched-link">Start reading</a> -->
+<a href="posts.html" class="btn btn-primary stretched-link">Διαβάστε περισσότερα</a>
 </div>
 </div>
 :::
@@ -57,7 +58,7 @@ format:
 <p class="card-text">
 Εντοπίστε μικροσκοπικές κινήσεις του στήθους και υπολογίστε με ακρίβεια τον καρδιακό ρυθμό, χωρίς χρήση επιπλέον φορετής συσκευής.
 </p>
-<!-- <a href="posts.html" class="btn btn-info stretched-link">Start reading</a> -->
+<a href="posts.html" class="btn btn-primary stretched-link">Διαβάστε περισσότερα</a>
 </div>
 </div>
 :::
@@ -105,9 +106,3 @@ format:
 :::
 
 :::::
-
-<br>
-<br>
-<br>
-<br>
-<br>
