@@ -1,17 +1,7 @@
 ---
-title: "Συσκευή"
+title: "Η συσκευή"
 title-block-banner: true
 ---
-
-::: {#fig-placement layout-ncol=2}
-
-![](/assets/images/placement_1.png){#fig-placement-1 fig-alt="Device placement on a nightstand."}
-
-![](/assets/images/placement_2.png){ #fig-placement-2 fig-alt="The area the device can monitor."}
-
-Ο προτεινόμενος τρόπος τοποθέτησης της συσκευής στο κομοδίνο, και η κάλυψη του χώρου από αυτή.
-
-:::
 
 ![Η συσκευή HealthSonar τοποθετημένη σε ένα τρίποδο.](/assets/images/exhibited_device.jpg){style="float: right" width=500 fig-align="left" fig-alt="The HealthSonar device on a tripod."}
 
@@ -35,3 +25,14 @@ title-block-banner: true
 
 Το HealthSonar είναι μία IoT συσκεύη που μεταδίδει δεδομένα απευθείας σε μία cloud εφαρμογή, όπου προσωποποιημένες μέθοδοι Μηχανικής Μάθησης χρησιμοποιούνται για την ανάλυση τους.
 Επίσης, η συσκευή μπορεί να συνδεθεί σε mobile εφαρμογή ώστε να μεταφέρει δεδομένα σε πραγματικό χρόνο προσφέροντας ιατρικές πληροφορίες στους χρήστες.
+
+
+::: {#fig-placement layout-ncol=2}
+
+![](/assets/images/placement_1.png){#fig-placement-1 fig-alt="Device placement on a nightstand."}
+
+![](/assets/images/placement_2.png){ #fig-placement-2 fig-alt="The area the device can monitor."}
+
+Ο προτεινόμενος τρόπος τοποθέτησης της συσκευής στο κομοδίνο, και η κάλυψη του χώρου από αυτή.
+
+:::

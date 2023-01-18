@@ -9,7 +9,7 @@ format:
             <script defer src="assets/fontawesome/js/all.min.js"></script>
 ---
 
-![](/assets/images/logo.svg){width=700 fig-align="center" fig-alt="HealthSonar logo."}
+![](/assets/images/banner.png){width=900 fig-align="center" fig-alt="HealthSonar logo."}
 
 <!-- <body>
 <h1><i><b>Ένα καινοτόμο σύστημα παρακολούθησης της υγείας</b></i></h1>
