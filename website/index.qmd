@@ -79,7 +79,7 @@ format:
 ::: {.g-col-12 .g-col-md-4}
 <div class="card-body">
 <center>
-<i class="fa-solid fa-satellite-dish fa-3x" style="color:#000000"></i><br><br>
+<i class="fa-solid fa-satellite-dish fa-3x" style="color:#2780e3"></i><br><br>
 <big><b>Ultra Wideband<br>Technology (UWB)</b></big>
 </center>
 </div>
@@ -98,7 +98,7 @@ format:
 ::: {.g-col-12 .g-col-md-4}
 <div class="card-body">
 <center>
-<i class="fa-brands fa-bluetooth-b fa-3x" style="color:#000000"></i><br><br>
+<i class="fa-brands fa-bluetooth-b fa-3x" style="color:#c50f0f"></i><br><br>
 <big><b>Bluetooth Low<br>Energy (BLE)</b></big>
 </center>
 </div>
