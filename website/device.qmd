@@ -6,14 +6,10 @@ title-block-banner: true
 ![Η συσκευή HealthSonar τοποθετημένη σε ένα τρίποδο.](/assets/images/exhibited_device.jpg){style="float: right" width=500 fig-align="left" fig-alt="The HealthSonar device on a tripod."}
 
 <center>
-<h3>
-<i>
+<p style="font-size:25px">
 Το HealthSonar αποτελεί μία καινοτόμα συσκευή παρακολούθησης της αναπνοής, του ύπνου και του καρδιακού ρυθμού.
-</i>
-</h2>
+</p>
 </center>
-
-<br>
 
 Η συσκευή συνοδεύεται από cloud και mobile εφαρμογή, δημιουργώντας ένα ολοκληρωμένο σύστημα παρακολούθησης της υγείας.
 Στην καρδιά της συσκευής βρίσκεται ένας αισθητήρας radar που χρησιμοποιεί ultra-wideband τεχνολογία και ελέγχει το περιβάλλον αναγνωρίζοντας μικροσκοπικές και μακροσκοπικές κινήσεις.

@@ -25,7 +25,7 @@ format:
 <div class="card mb-2">
 <div class="card-body">
 <center><i class="fa-solid fa-lungs fa-3x" style="color:#2780e3"></i></center><br>
-<h5 class="card-title"><big><b>Παρακολούθηση Αναπνοής</b></big></h5>
+<p class="card-title"><big><b>Παρακολούθηση Αναπνοής</b></big></p>
 <p class="card-text">
 Παρακολουθήστε το ρυθμό της αναπνοής σας κατά τη διάρκεια της ημέρας και της νύχτας.
 Ανακαλύψτε διάφορα μοτίβα στην αναπνοή σας.
@@ -39,7 +39,7 @@ format:
 <div class="card mb-2">
 <div class="card-body">
 <center><i class="fa-solid fa-moon fa-3x" style="color:#000000"></i></center><br>
-<h5 class="card-title"><big><b>Παρακολούθηση Ύπνου</b></big></h5>
+<p class="card-title"><big><b>Παρακολούθηση Ύπνου</b></big></p>
 <p class="card-text">
 Παρακολουθήστε σε βάθος τον βραδικό ύπνο.
 Ποσοτικοποιήστε τον και εντοπίστε διάφορα γενονότα που συμβαίνουν κατά τη διάρκεια του.
@@ -53,7 +53,7 @@ format:
 <div class="card mb-2">
 <div class="card-body">
 <center><i class="fa-solid fa-heart fa-3x" style="color:#c50f0f"></i></center><br>
-<h5 class="card-title"><big><b>Παρακολούθηση Αναπνοής</b></big></h5>
+<p class="card-title"><big><b>Παρακολούθηση Αναπνοής</b></big></p>
 <p class="card-text">
 Εντοπίστε μικροσκοπικές κινήσεις του στήθους και υπολογίστε με ακρίβεια τον καρδιακό ρυθμό, χωρίς χρήση επιπλέον φορετής συσκευής.
 </p>
