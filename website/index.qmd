@@ -41,8 +41,8 @@ format:
 <center><i class="fa-solid fa-moon fa-3x" style="color:#000000"></i></center><br>
 <p class="card-title"><big><b>Παρακολούθηση Ύπνου</b></big></p>
 <p class="card-text">
-Παρακολουθήστε σε βάθος τον βραδικό ύπνο.
-Ποσοτικοποιήστε τον και εντοπίστε διάφορα γενονότα που συμβαίνουν κατά τη διάρκεια του.
+Παρακολουθήστε σε βάθος τον βραδινό ύπνο.
+Ποσοτικοποιήστε τον και εντοπίστε διάφορα γεγονότα που συμβαίνουν κατά τη διάρκεια του.
 </p>
 <!-- <a href="posts.html" class="btn btn-info stretched-link">Start reading</a> -->
 </div>
