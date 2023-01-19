@@ -1,5 +1,6 @@
 ---
 title: "Σχετικά"
+toc: false
 about:
   template: trestles
   image: /assets/images/icon_logo.png

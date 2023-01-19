@@ -1,6 +1,7 @@
 ---
 title: "Η ομάδα"
 title-block-banner: true
+toc: false
 ---
 
 ## Αποστολή
