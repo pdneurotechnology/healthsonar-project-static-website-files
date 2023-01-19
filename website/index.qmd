@@ -31,7 +31,20 @@ format:
 Παρακολουθήστε το ρυθμό της αναπνοής σας κατά τη διάρκεια της ημέρας και της νύχτας.
 Ανακαλύψτε διάφορα μοτίβα στην αναπνοή σας.
 </p>
-<a href="posts.html" class="btn btn-primary stretched-link">Διαβάστε περισσότερα</a>
+<a href="device.html#παρακολούθηση-αναπνοής" class="btn btn-primary stretched-link">Διαβάστε περισσότερα</a>
+</div>
+</div>
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card mb-2">
+<div class="card-body">
+<center><i class="fa-solid fa-heart fa-3x" style="color:#c50f0f"></i></center><br>
+<p class="card-title"><big><b>Παρακολούθηση Καρδιάς</b></big></p>
+<p class="card-text">
+Εντοπίστε μικροσκοπικές κινήσεις του στήθους και υπολογίστε με ακρίβεια τον καρδιακό ρυθμό, χωρίς χρήση επιπλέον φορετής συσκευής.
+</p>
+<a href="device.html#παρακολούθηση-καρδιάς" class="btn btn-primary stretched-link">Διαβάστε περισσότερα</a>
 </div>
 </div>
 :::
@@ -45,20 +58,7 @@ format:
 Παρακολουθήστε σε βάθος τον βραδινό ύπνο.
 Ποσοτικοποιήστε τον και εντοπίστε διάφορα γεγονότα που συμβαίνουν κατά τη διάρκεια του.
 </p>
-<a href="posts.html" class="btn btn-primary stretched-link">Διαβάστε περισσότερα</a>
-</div>
-</div>
-:::
-
-::: {.g-col-12 .g-col-md-4}
-<div class="card mb-2">
-<div class="card-body">
-<center><i class="fa-solid fa-heart fa-3x" style="color:#c50f0f"></i></center><br>
-<p class="card-title"><big><b>Παρακολούθηση Αναπνοής</b></big></p>
-<p class="card-text">
-Εντοπίστε μικροσκοπικές κινήσεις του στήθους και υπολογίστε με ακρίβεια τον καρδιακό ρυθμό, χωρίς χρήση επιπλέον φορετής συσκευής.
-</p>
-<a href="posts.html" class="btn btn-primary stretched-link">Διαβάστε περισσότερα</a>
+<a href="device.html#παρακολούθηση-ύπνου" class="btn btn-primary stretched-link">Διαβάστε περισσότερα</a>
 </div>
 </div>
 :::
@@ -86,12 +86,11 @@ format:
 </div>
 :::
 
-
 ::: {.g-col-12 .g-col-md-4}
 <div class="card-body">
 <center>
-<i class="fa-solid fa-wifi fa-3x" style="color:#000000"></i><br><br>
-<big><b>Wi-Fi Wireless<br>Connectivity</b></big>
+<i class="fa-brands fa-bluetooth-b fa-3x" style="color:#c50f0f"></i><br><br>
+<big><b>Bluetooth Low<br>Energy (BLE)</b></big>
 </center>
 </div>
 :::
@@ -99,8 +98,8 @@ format:
 ::: {.g-col-12 .g-col-md-4}
 <div class="card-body">
 <center>
-<i class="fa-brands fa-bluetooth-b fa-3x" style="color:#c50f0f"></i><br><br>
-<big><b>Bluetooth Low<br>Energy (BLE)</b></big>
+<i class="fa-solid fa-wifi fa-3x" style="color:#000000"></i><br><br>
+<big><b>Wi-Fi Wireless<br>Connectivity</b></big>
 </center>
 </div>
 :::
