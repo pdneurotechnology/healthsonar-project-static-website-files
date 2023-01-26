@@ -2,16 +2,16 @@
 title: "Σχετικά"
 toc: false
 about:
-  template: trestles
-  image: /assets/images/icon_logo.png
-  image-shape: round
-  links:
-    - icon: envelope
-      text: Contact
-      href: "mailto:info@pdneurotechnology.com"
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/healthsonar
+    template: trestles
+    image: /assets/images/icon_logo.png
+    image-shape: round
+    links:
+        - icon: envelope
+          text: Contact
+          href: "mailto:info@pdneurotechnology.com"
+        - icon: twitter
+          text: Twitter
+          href: https://twitter.com/healthsonar
 ---
 
 Αρκετές ομάδες ατόμων αντιμετωπίζουν προβλήματα στην καθημερινότητα τους σχετιζόμενα με τον ύπνο ή την κίνηση τους, τα οποία επηρεάζουν την ποιότητα ζωής.

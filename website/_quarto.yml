@@ -1,50 +1,50 @@
 project:
-  type: website
-  render:
-    - ./index.qmd
-    - ./about.qmd
-    - ./device.qmd
-    - ./consortium.qmd
-    - ./publications.qmd
-    - ./contact.qmd
-    - "!extras/"
-  output-dir: _site
+    type: website
+    render:
+        - ./index.qmd
+        - ./about.qmd
+        - ./device.qmd
+        - ./consortium.qmd
+        - ./publications.qmd
+        - ./contact.qmd
+        - "!extras/"
+    output-dir: _site
 
 website:
-  favicon: /assets/images/favicon.png
-  search: false
-  title: "HealthSonar"
-  navbar:
-    left:
-    - href: about.qmd
-      text: Σχετικά
-      icon: info-circle
-    - href: device.qmd
-      text: Συσκευή
-      icon: broadcast-pin
-    - href: consortium.qmd
-      text: Κοινοπραξία
-      icon: people
-    - href: publications.qmd
-      text: Δημοσιεύσεις
-      icon: book
-    - href: contact.qmd
-      text: Επικοινωνία
-      icon: envelope
-    right:
-    - icon: twitter
-      text: Ακολουθήστε μας!
-      href: https://twitter.com/healthsonar
-    pinned: True
-  page-footer: 
-    right: "![](/assets/images/espa_logo.jpg){width=300 fig-alt=ESPA}"
+    favicon: /assets/images/favicon.png
+    search: false
+    title: "HealthSonar"
+    navbar:
+        left:
+            - href: about.qmd
+              text: Σχετικά
+              icon: info-circle
+            - href: device.qmd
+              text: Συσκευή
+              icon: broadcast-pin
+            - href: consortium.qmd
+              text: Κοινοπραξία
+              icon: people
+            - href: publications.qmd
+              text: Δημοσιεύσεις
+              icon: book
+            - href: contact.qmd
+              text: Επικοινωνία
+              icon: envelope
+        right:
+            - icon: twitter
+              text: Ακολουθήστε μας!
+              href: https://twitter.com/healthsonar
+        pinned: True
+    page-footer: 
+        right: "![](/assets/images/espa_logo.jpg){width=300 fig-alt=ESPA}"
 
 format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-    page-layout: full
-    header-includes: |
-      <link rel="stylesheet" href="assets/fontawesome/css/fontawesome.min.css">
-      <script defer src="assets/fontawesome/js/all.min.js"></script>
+    html:
+        theme: cosmo
+        css: styles.css
+        toc: true
+        page-layout: full
+        header-includes: |
+            <link rel="stylesheet" href="assets/fontawesome/css/fontawesome.min.css">
+            <script defer src="assets/fontawesome/js/all.min.js"></script>

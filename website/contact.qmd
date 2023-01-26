@@ -9,12 +9,50 @@ format:
             <script defer src="assets/fontawesome/js/all.min.js"></script>
 ---
 
-Ενδιαφέρεστε να μάθετε περισσότερα για την καινοτόμα τεχνολογία του HealthSonar;
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<i class="fa-solid fa-envelope fa-lg" style="color:#000000"></i>
-[Επικοινωνήστε μαζί μας](mailto:info@pdneurotechnology.com).
+:::: {.grid}
 
-Θέλετε να είστε διαρκώς ενημερωμένοι σχετικά με νέες εξελίξεις για το HealthSonar;
 
-<i class="fa-brands fa-twitter fa-lg" style="color:#000000"></i>
-[Ακολουθείστε μας](https://www.twitter.com/healthsonar)
+::: {.g-col-12 .g-col-md-4}
+:::
+::: {.g-col-12 .g-col-md-4}
+<div class="card mb-2">
+<div class="card-body">
+<center><i class="fa-brands fa-twitter fa-2x"> style="color:#2780e3"></i></center><br>
+<p class="card-text">
+Ενδιαφέρεστε να μάθετε περισσότερα για την τεχνολογία του HealthSonar;
+</p>
+<center>
+<a href="https://www.twitter.com/healthsonar" class="btn btn-primary stretched-link">Twitter</a>
+</center>
+</div>
+</div>
+:::
+::: {.g-col-12 .g-col-md-4}
+:::
+
+
+::: {.g-col-12 .g-col-md-4}
+:::
+::: {.g-col-12 .g-col-md-4}
+<div class="card mb-2">
+<div class="card-body">
+<center><i class="fa-solid fa-envelope fa-2x"></i></center><br>
+<p class="card-text">
+Θέλετε να είστε διαρκώς ενημερωμένοι για τις νέες εξελίξεις του συστήματος;
+</p>
+<center>
+<a href="mailto:info@pdneurotechnology.com" class="btn btn-primary stretched-link">Email</a>
+</center>
+</div>
+</div>
+:::
+::: {.g-col-12 .g-col-md-4}
+:::
+
+::::

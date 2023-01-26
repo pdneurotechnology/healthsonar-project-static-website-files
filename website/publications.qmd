@@ -5,7 +5,7 @@ toc: false
 bibliography: bibliography.bib
 csl: assets/transactions-on-algorithms.csl
 nocite: |
-  @ntanis2022evaluating
+    @ntanis2022evaluating
 ---
 
 ::: {#refs}
