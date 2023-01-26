@@ -8,8 +8,10 @@ toc: false
 Η συσκευή συνοδεύεται από cloud και mobile εφαρμογή, δημιουργώντας ένα ολοκληρωμένο σύστημα παρακολούθησης της υγείας.
 
 <center>
-<p style="font-size:25px">
-Στην καρδιά της συσκευής βρίσκεται ένας αισθητήρας radar που χρησιμοποιεί ultra-wideband τεχνολογία.
+<p style="font-size: 25px; font-style: italic">
+<i class="fa-solid fa-quote-left"></i>
+Στην καρδιά της συσκευής βρίσκεται ένας αισθητήρας radar<br>που χρησιμοποιεί ultra-wideband τεχνολογία.
+<i class="fa-solid fa-quote-right"></i>
 </p>
 </center>
 

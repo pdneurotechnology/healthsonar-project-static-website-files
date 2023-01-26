@@ -49,3 +49,6 @@ format:
     css: styles.css
     toc: true
     page-layout: full
+    header-includes: |
+        <link rel="stylesheet" href="assets/fontawesome/css/fontawesome.min.css">
+        <script defer src="assets/fontawesome/js/all.min.js"></script>

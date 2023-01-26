@@ -19,8 +19,10 @@ about:
 Σε όλες αυτές τις περιπτώσεις είναι αναγκαία η διαρκής παρακολούθηση των ατόμων ώστε να μπορέσουν να εξαχθούν πληροφορίες σχετικά με την υγεία και την γενική κατάσταση τους.
 
 <center>
-<p style="font-size:25px">
+<p style="font-size: 25px; font-style: italic">
+<i class="fa-solid fa-quote-left"></i>
 Το έργο HealthSonar, στοχεύει στην ανάπτυξη ενός συστήματος βασισμένο σε ραδιοκύματα εξαιρετικά χαμηλής ισχύος (ultra-wideband, UWB).
+<i class="fa-solid fa-quote-right"></i>
 </p>
 </center>
 
