@@ -7,7 +7,8 @@ project:
     - ./consortium.qmd
     - ./publications.qmd
     - ./contact.qmd
-    - "!content-en/"
+    - "!extras/"
+  output-dir: _site
 
 website:
   favicon: /assets/images/favicon.png
@@ -37,11 +38,6 @@ website:
     pinned: True
   page-footer: 
     right: "![](/assets/images/espa_logo.jpg){width=300 fig-alt=ESPA}"
-    # center:
-    #     - icon: envelope
-    #       href: mailto:info@pdneurotechnology.com
-    #     - icon: twitter
-    #       href: https://twitter.com
 
 format:
   html:
@@ -50,5 +46,5 @@ format:
     toc: true
     page-layout: full
     header-includes: |
-        <link rel="stylesheet" href="assets/fontawesome/css/fontawesome.min.css">
-        <script defer src="assets/fontawesome/js/all.min.js"></script>
+      <link rel="stylesheet" href="assets/fontawesome/css/fontawesome.min.css">
+      <script defer src="assets/fontawesome/js/all.min.js"></script>

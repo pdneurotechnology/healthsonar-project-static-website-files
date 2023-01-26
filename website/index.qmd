@@ -5,7 +5,6 @@ toc: false
 subtitle: "Ένα καινοτόμο σύστημα παρακολούθησης της υγείας"
 ---
 
-
 ![](/assets/images/logo.svg){width=700 fig-align="center" fig-alt="HealthSonar logo."}
 
 <!-- <body>
@@ -71,7 +70,7 @@ subtitle: "Ένα καινοτόμο σύστημα παρακολούθησης
 <br>
 <br>
 
-::::{.grid}
+:::::{.grid}
 
 ::: {.g-col-12 .g-col-md-4}
 <div class="card-body">
@@ -100,4 +99,4 @@ subtitle: "Ένα καινοτόμο σύστημα παρακολούθησης
 </div>
 :::
 
-::::
+:::::
