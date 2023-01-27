@@ -25,7 +25,7 @@ toc: false
 
 ![](/assets/images/mobile_app.png){#fig-placement-2 width=220 fig-align="center" fig-alt="The HealthSonar device on a tripod."}
 
-Η συσκευή HealthSonar τοποθετημένη σε ένα τρίποδο και η κεντρική οθόνη από το mobile app..
+Η συσκευή HealthSonar τοποθετημένη σε ένα τρίποδο και η κεντρική οθόνη από το mobile app.
 :::
 
 Το HealthSonar είναι μία IoT συσκευή που μεταδίδει δεδομένα απευθείας σε μία cloud εφαρμογή, όπου προσωποποιημένες μέθοδοι Μηχανικής Μάθησης χρησιμοποιούνται για την ανάλυση τους.

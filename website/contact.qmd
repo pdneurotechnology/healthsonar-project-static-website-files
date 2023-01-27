@@ -9,16 +9,8 @@ format:
             <script defer src="assets/fontawesome/js/all.min.js"></script>
 ---
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
 :::: {.grid}
 
-::: {.g-col-12 .g-col-md-4}
-:::
 ::: {.g-col-12 .g-col-md-4}
 <div class="card mb-2">
 <div class="card-body">
@@ -32,11 +24,7 @@ format:
 </div>
 </div>
 :::
-::: {.g-col-12 .g-col-md-4}
-:::
 
-::: {.g-col-12 .g-col-md-4}
-:::
 ::: {.g-col-12 .g-col-md-4}
 <div class="card mb-2">
 <div class="card-body">
@@ -49,8 +37,6 @@ format:
 </center>
 </div>
 </div>
-:::
-::: {.g-col-12 .g-col-md-4}
 :::
 
 ::::
