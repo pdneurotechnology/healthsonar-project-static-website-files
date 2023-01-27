@@ -14,12 +14,12 @@ format:
 ::: {.g-col-12 .g-col-md-4}
 <div class="card mb-2">
 <div class="card-body">
-<center><i class="fa-brands fa-twitter fa-2x"> style="color:#2780e3"></i></center><br>
+<center><i class="fa-solid fa-envelope fa-2x"></i></center><br>
 <p class="card-text">
-Ενδιαφέρεστε να μάθετε περισσότερα για την τεχνολογία του HealthSonar;
+Θέλετε να είστε διαρκώς ενημερωμένοι για τις νέες εξελίξεις του συστήματος;
 </p>
 <center>
-<a href="https://www.twitter.com/healthsonar" class="btn btn-primary stretched-link">Twitter</a>
+<a href="mailto:info@pdneurotechnology.com" class="btn btn-primary stretched-link">Email</a>
 </center>
 </div>
 </div>
@@ -28,12 +28,12 @@ format:
 ::: {.g-col-12 .g-col-md-4}
 <div class="card mb-2">
 <div class="card-body">
-<center><i class="fa-solid fa-envelope fa-2x"></i></center><br>
+<center><i class="fa-brands fa-twitter fa-2x"> style="color:#2780e3"></i></center><br>
 <p class="card-text">
-Θέλετε να είστε διαρκώς ενημερωμένοι για τις νέες εξελίξεις του συστήματος;
+Ενδιαφέρεστε να μάθετε περισσότερα για την τεχνολογία του HealthSonar;
 </p>
 <center>
-<a href="mailto:info@pdneurotechnology.com" class="btn btn-primary stretched-link">Email</a>
+<a href="https://www.twitter.com/healthsonar" class="btn btn-primary stretched-link">Twitter</a>
 </center>
 </div>
 </div>
