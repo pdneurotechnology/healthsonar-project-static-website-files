@@ -1,15 +1,8 @@
 ---
-title-block-banner: true
-title: "HealthSonar"
 toc: false
-subtitle: "Ένα καινοτόμο σύστημα παρακολούθησης της υγείας"
 ---
 
 ![](/assets/images/logo.svg){width=700 fig-align="center" fig-alt="HealthSonar logo."}
-
-<!-- <body>
-<h1><i><b>Ένα καινοτόμο σύστημα παρακολούθησης της υγείας</b></i></h1>
-</body> -->
 
 <br>
 <br>
