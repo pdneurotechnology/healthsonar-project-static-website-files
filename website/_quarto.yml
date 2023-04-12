@@ -7,6 +7,7 @@ project:
         - ./consortium.qmd
         - ./publications.qmd
         - ./contact.qmd
+        - ./privacy_policy.qmd
         - "!extras/"
     output-dir: _site
 
@@ -38,6 +39,7 @@ website:
         pinned: True
     page-footer: 
         right: "![](/assets/images/espa_logo.jpg){width=300 fig-alt=ESPA}"
+        center: "[Πολιτική απορρήτου HealthSonar](privacy_policy.html)"
 
 format:
     html:

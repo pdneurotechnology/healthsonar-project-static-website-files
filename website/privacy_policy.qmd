@@ -1,0 +1,13 @@
+---
+title: "Πολιτική απορρήτου HealthSonar"
+title-block-banner: true
+toc: false
+---
+
+<html>
+  <body>
+    <object data="assets/privacy_policy_v1.pdf" type="application/pdf" width="100%" height="1000px">
+      <p>Unable to display PDF file. <a href="assets/privacy_policy_v1.pdf">Download</a> instead.</p>
+    </object>
+  </body>
+</html>
