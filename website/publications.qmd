@@ -6,7 +6,13 @@ bibliography: bibliography.bib
 csl: assets/transactions-on-algorithms.csl
 nocite: |
     @ntanis2022evaluating
+    @kontaxis2023detection
+    @ntanis2023healthSonar
+    @tsiouris2023multi
+    @pentari2023can
+    @pentari2023respiration
 ---
 
 ::: {#refs}
+
 :::
